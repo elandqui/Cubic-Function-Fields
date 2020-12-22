@@ -1,8 +1,6 @@
 # libhbounds library
 
-  This library contains utilities for computing an estimate, E, of the divisor class number, h, of the cubic function field K = Fq(C), C: Y^3 = f = GH^2. 
-
-  Here, char(K) > 3.
+  This library contains utilities for computing an estimate, E, of the divisor class number, h, of the cubic function field K = Fq(C), C: Y^3 = f = GH^2, where char(K) > 3.
 
    **hbounds.cc**
 

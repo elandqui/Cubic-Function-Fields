@@ -42,7 +42,7 @@
    5. Optimize where possible.
 
    Authors: 
-   Mark Bauer
-   Eric Nosal
-   Eric Landquist
-   Hameeduz Zaman, hameed_uz@hotmail.com, (403) 399-8582
+   Mark Bauer, 
+   Eric Nosal, 
+   Eric Landquist, and 
+   Hameeduz Zaman

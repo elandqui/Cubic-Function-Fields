@@ -1,0 +1,2 @@
+g++ -Wno-deprecated -O2 -I../../../NTL/include -L../../../NTL/lib -L../../../GMP/lib period.cc -lntl -lgmp -lm
+mv a.out period

@@ -1,0 +1,1 @@
+g++ -Wno-deprecated -I$PREFIX/include -L$PREFIX/lib -L$PREFIX/lib period2.cc -o period2 -lntl -lgmp -lm

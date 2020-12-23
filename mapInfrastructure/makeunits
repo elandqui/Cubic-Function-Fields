@@ -1,0 +1,1 @@
+g++ -Wno-deprecated -I../../../include -L../../../lib -L../../../lib units.cc -o units -lntl -lgmp -lm

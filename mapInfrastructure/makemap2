@@ -1,0 +1,1 @@
+g++ -Wno-deprecated -I../../../include -L../../../lib -L../../../lib infmap2.cc -o map2 -lntl -lgmp -lm

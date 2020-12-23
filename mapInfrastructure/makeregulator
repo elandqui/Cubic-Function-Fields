@@ -1,0 +1,1 @@
+g++ -Wno-deprecated -I../../../include -L../../../lib -L../../../lib regulator.cc -o regulator -lntl -lgmp -lm

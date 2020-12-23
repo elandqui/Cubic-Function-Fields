@@ -1,0 +1,1 @@
+mpig++ -O3 -Wno-deprecated -I. -I.. -I/usr/local/include -L../../../../lib -L../../../../li kangaroo_mpi.cc -o kangaroo_mpi -linvariants -linfideal -lhbounds -lcubic -lntl -lgmp -lm

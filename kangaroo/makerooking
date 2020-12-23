@@ -1,0 +1,1 @@
+g++ -O3 -Wno-deprecated -I. -I.. -I/home/research/elandqui/Software/include -L../Invariants -L../Infideal -L../Hbounds -L../CubicIdeal -L/home/research/elandqui/Software/lib -L/home/research/elandqui/Software/lib rooking.cc -o rooking -linvariants -linfideal -lhbounds -lcubic -lntl -lgmp -lm

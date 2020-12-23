@@ -1,0 +1,1 @@
+g++ -O3 -Wno-deprecated -I. -I../../../../include -L./Infideal -L. -L../../../../lib -L../../../../lib cnreg.cc -o cnreg -linfideal -lcubic -lntl -lgmp -lm

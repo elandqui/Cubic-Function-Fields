@@ -1,0 +1,1 @@
+g++ -g -O3 -Wno-deprecated -I. -I.. -I/usr/local/include -L../Invariants -L../Infideal -L../Hbounds -L../CubicIdeal -L/usr/local/lib -L/usr/local/lib bsgstiming.cc -o bsgstiming -linvariants -linfideal -lhbounds -lcubic -lntl -lgmp -lm

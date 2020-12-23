@@ -1,0 +1,1 @@
+g++ -g -O3 -Wno-deprecated -I. -I.. -I$PREFIX/include -L../Invariants -L../Infideal -L../Hbounds -L../CubicIdeal -L$PREFIX/lib -L$PREFIX/lib classnumber.cc -o classnumber -linvariants -linfideal -lhbounds -lcubic -lntl -lgmp -lm

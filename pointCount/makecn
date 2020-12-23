@@ -1,0 +1,1 @@
+g++ -g -O3 -Wno-deprecated -I. -I.. -I/home/elandqui/include -L../Invariants -L../Infideal -L../Hbounds -L../CubicIdeal -L/home/elandqui/lib -L/home/elandqui/lib classnumber.cc -o classnumber -linvariants -linfideal -lhbounds -lcubic -lntl -lgmp -lm
